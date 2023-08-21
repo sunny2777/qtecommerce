@@ -3,3 +3,6 @@ def isvalid():
 
 def lolgin():
     pass
+
+def logout():
+    pass
